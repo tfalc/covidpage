@@ -32,6 +32,7 @@ body{
 }
 
 .NoticiasDestaque{
+    image-resolution: 300px 500px;
     text-transform: capitalize;
     display: flex;
 }
