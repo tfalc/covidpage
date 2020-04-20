@@ -37,6 +37,11 @@ body{
     display: flex;
 }
 
+.NoticiasDestaque img{
+    width: 300px;
+    height: 500px;
+}
+
 #noticiassemana{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
