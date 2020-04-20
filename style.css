@@ -22,7 +22,7 @@ body{
 }
 
 #destaques{
-    image-resolution: 300px 500px;
+    image-resolution: 350px 350px;
     border-image: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 5%;
@@ -32,14 +32,14 @@ body{
 }
 
 .NoticiasDestaque{
-    image-resolution: 300px 500px;
+    image-resolution: 350px 350px;
     text-transform: capitalize;
     display: flex;
 }
 
 .NoticiasDestaque img{
-    width: 300px;
-    height: 500px;
+    width: 350px;
+    height: 350px;
 }
 
 #noticiassemana{
